@@ -54,21 +54,21 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">EdTech Platform</h3>
+      <h3 align="center">T0-DO-LIST</h3>
       <div align="center">
         <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilwebdev21&repo=edtech-platform&theme=radical" />
+          <img src="[https://github-readme-stats.vercel.app/api/pin/?username=sahilwebdev21&repo=edtech-platform&theme=radical](https://to-do-list-app-azure-two.vercel.app/)" />
         </a>
-        <p>AI-powered learning management system</p>
+        <p>Good UI/UX</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">E-commerce Solution</h3>
+      <h3 align="center">PortFolio</h3>
       <div align="center">
         <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilwebdev21&repo=ecommerce-solution&theme=radical" />
+          <img src="[https://github-readme-stats.vercel.app/api/pin/?username=sahilwebdev21&repo=ecommerce-solution&theme=radical](https://sahilwebdev.vercel.app/)" />
         </a>
-        <p>Full-stack marketplace with payment integration</p>
+        <p>My Personal Portfolio showing my skills.</p>
       </div>
     </td>
   </tr>
